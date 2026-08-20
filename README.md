@@ -1,3 +1,2 @@
 # Internal-Combustion-Engine
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hank930701-dotcom/Internal-Combustion-Engine/blob/main/Chat1.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hank930701-dotcom/Internal-Combustion-Engine/HEAD?urlpath=%2Fvoila%2Frender%2FChat1.ipynb)
